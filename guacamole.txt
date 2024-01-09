@@ -3,6 +3,7 @@ Ingredients
 - onions 
 - cilantro
 - salt
+<<<<<<< HEAD
 - lime
 - jalapenos
 
@@ -11,3 +12,6 @@ Instructions:
 - chop onions and cilantros jalapenos
 - squeeze limes
 - mix all together 
+=======
+- lime 
+>>>>>>> parent of baaccde (added instructions)
